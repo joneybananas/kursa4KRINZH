@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/resourec">
+        <file>img/timosh.jpg</file>
+        <file>img/2.png</file>
+        <file>img/4.png</file>
+        <file>img/6.png</file>
+        <file>img/7.png</file>
+        <file>img/8.png</file>
+        <file>img/9.png</file>
+        <file>img/b1.png</file>
+        <file>img/b6.png</file>
+        <file>img/b7.png</file>
+        <file>img/c4.png</file>
+        <file>img/c5.png</file>
+        <file>img/h1.png</file>
+        <file>img/h2.png</file>
+        <file>img/h3.png</file>
+        <file>img/h4.png</file>
+        <file>img/h5.png</file>
+    </qresource>
+</RCC>
